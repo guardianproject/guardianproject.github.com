@@ -1,0 +1,1 @@
+This repository provides the Guardian Project F-Droid repository, at [`/fdroid-repo/fdroid/repo/`](https://guardianproject.github.io/fdroid-repo/fdroid/repo/). It mirrors [`gitlab.com/guardianproject/fdroid-repo`](https://gitlab.com/guardianproject/fdroid-repo).
